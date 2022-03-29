@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "348419441457",
+    "project_id": "vivid-layout-344511",
+    "storage_bucket": "vivid-layout-344511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348419441457:android:624542c6a37cff9dd6e610",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348419441457-rfs0cgiu9l3j79fjafkf3eicovongcc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBsvzf1zB_QqOHZhMQ7xLVLjqeN3py7y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348419441457-rfs0cgiu9l3j79fjafkf3eicovongcc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348419441457:android:e2ab088f08b7ebeed6e610",
+        "android_client_info": {
+          "package_name": "organic_shop.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348419441457-rfs0cgiu9l3j79fjafkf3eicovongcc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBsvzf1zB_QqOHZhMQ7xLVLjqeN3py7y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348419441457-rfs0cgiu9l3j79fjafkf3eicovongcc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
